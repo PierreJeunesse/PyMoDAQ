@@ -12,6 +12,3 @@ class ParameterTree(ParameterTree):
         self.header().setSectionResizeMode(QtWidgets.QHeaderView.ResizeMode.Interactive)
         self.header().setMinimumSectionSize(150)
 
-
-class Parameter:
-    pass
